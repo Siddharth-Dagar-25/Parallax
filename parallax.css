@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: 100;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.parallax {
+    background: url('https://images.unsplash.com/photo-1569770218135-bea267ed7e84?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80') repeat fixed 100%;
+    background-size: cover;
+    color: aliceblue;
+}
+
+.parallax-1 {
+    background: url('https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1326&q=80') repeat fixed 100%;
+    background-size: cover;
+    color: aliceblue;
+}
+
+.parallax-2 {
+    background: url('https://images.unsplash.com/photo-1517059224940-d4af9eec41b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1905&q=80') repeat fixed 100%;
+    background-size: cover;
+    color: aliceblue;
+}
+
+.parallax-inner {
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+h3 {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-size: 160px;
+    text-align: center;
+}
